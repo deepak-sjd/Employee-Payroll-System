@@ -4,6 +4,8 @@ Java | OOP | File Handling | Inheritance, Polymorphism
 
 A Java-based console application that allows an organization to manage employee records, calculate salaries, and generate payslips.
 
+![image alt](https://github.com/deepak-sjd/Employee-Payroll-System/blob/60e03a61d2671d6932c6c81555d4096c512dc882/Screenshot%20(68).png)
+
 ## 🚀 Features
 
 - Add, update, and delete employee records
